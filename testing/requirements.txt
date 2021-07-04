@@ -1,0 +1,6 @@
+pytest
+semver
+pytest
+pytest-cov
+aiofiles
+email-validator

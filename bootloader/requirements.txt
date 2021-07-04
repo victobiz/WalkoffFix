@@ -1,0 +1,5 @@
+docker
+aiodocker == 0.14.0
+pyyaml
+minio
+tenacity
